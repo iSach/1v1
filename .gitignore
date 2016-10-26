@@ -10,9 +10,12 @@
 *.war
 *.ear
 
-atestserver
-.idea
-logs
+atestserver/
+.idea/
+logs/
+atestserver/*
+.idea/*
+logs/*
 server.properties
 
 
@@ -163,3 +166,8 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
+atestserver/plugins/1v1/
+atestserver/world_nether/playerdata/
+atestserver/world_the_end/playerdata/
+src/main/java/be/isach/onevsone/listener/
+src/test/
