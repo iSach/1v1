@@ -1,0 +1,9 @@
+name: 1v1
+version: @version@
+main: be.isach.onevsone.OneVOne
+authors: [iSach]
+description: Plugin de 1v1
+website: http://isach.be
+commands:
+  1v1:
+    aliases: [onevone, ovo]
